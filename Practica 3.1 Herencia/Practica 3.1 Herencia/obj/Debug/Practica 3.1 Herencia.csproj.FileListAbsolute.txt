@@ -1,0 +1,16 @@
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica 3.1 Herencia.csprojAssemblyReference.cache
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica_3._1_Herencia.Ejer1.resources
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica_3._1_Herencia.Form1.resources
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica_3._1_Herencia.Properties.Resources.resources
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica 3.1 Herencia.csproj.GenerateResource.cache
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica 3.1 Herencia.csproj.CoreCompileInputs.cache
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\bin\Debug\Practica 3.1 Herencia.exe.config
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\bin\Debug\Practica 3.1 Herencia.exe
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\bin\Debug\Practica 3.1 Herencia.pdb
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica 3.1 Herencia.exe
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica 3.1 Herencia.pdb
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica_3._1_Herencia.Ejer5.resources
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica_3._1_Herencia.Ejer6.resources
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica_3._1_Herencia.Ejer7.resources
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica_3._1_Herencia.Ejer8.resources
+C:\Users\YoelR\source\repos\Practica 3.1 Herencia\Practica 3.1 Herencia\obj\Debug\Practica_3._1_Herencia.Ejer11.resources
